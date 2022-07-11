@@ -1,16 +1,17 @@
-<p><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4EF733&lines=A+brief+of+my++Github)](https://git.io/typing-svg)
- </p>
-
-<br/>
-
-### Hi there 👋
-
+<img align="right" alt="Coding" width="800" height="200" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp">
 
 
 <br/>
----
+
+
+### Hi there 👋 My name is Matias, I'm  a computer engineer 👨‍💻 and I work as Full-Stack developer.
+
+
+<br/>
+
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -71,10 +72,14 @@
 
 <br/>  
 
+<a href="https://github.com/matiast02/matiast02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=merko&hide_border=true&hide=issues,contribs&show_icons=true&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e" />
+</a>
+<a href="https://github.com/matiast02/matiast02">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=4&hide=C,C%2B%2B,Roff&&layout=compact&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e&title_color=00ee6e&hide_border=true" />
+</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=merko&border_color=21262d&hide=issues,contribs&show_icons=true&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=4&hide=C,C%2B%2B,Roff&&layout=compact)](https://github.com/matiast02/github-readme-stats)
+<br/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matiast02&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
