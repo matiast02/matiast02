@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=radical&border_color=#21262d)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=radical&border_color=21262d)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=8&hide=C,C++,Roff&&layout=compact)](https://github.com/matiast02/github-readme-stats)
 <!--
