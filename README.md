@@ -1,4 +1,7 @@
- <img align="right" alt="Coding" width="600" src="https://media3.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47off4dll6b9nyoy07696qhdquvuqtdh6n37jo9c0u&rid=giphy.gif&ct=g">
+<p><br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4EF733&lines=A+brief+of+my++Github)](https://git.io/typing-svg)
+ </p>
 
 <br/>
 
@@ -7,7 +10,7 @@
 
 
 <br/>
-
+---
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
