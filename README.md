@@ -4,9 +4,7 @@
 
 ### Hi there 👋
 
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4EF733&lines=A+brief+of+my++Github)](https://git.io/typing-svg)
 
 <br/>
 
@@ -63,6 +61,10 @@
 </div>
 
 </td></tr></table>  
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4EF733&lines=A+brief+of+my++Github)](https://git.io/typing-svg)
 
 <br/>  
 
