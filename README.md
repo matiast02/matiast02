@@ -10,6 +10,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matiast02&theme=merko&hide_border=true)](https://git.io/streak-stats)
 
+
+![](https://komarev.com/ghpvc/?username=matiast02&color=brightgreen)
 <!--
 **matiast02/matiast02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
