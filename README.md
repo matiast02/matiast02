@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=8&hide=C,C++&&layout=compact)](https://github.com/matiast02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=8&hide=C,C++,Roff&&layout=compact)](https://github.com/matiast02/github-readme-stats)
 <!--
 **matiast02/matiast02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
