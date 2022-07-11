@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=tokyonight&border_color=21262d&hide=issues,contribs&show_icons=true&bg_color=DEG,348756,54b6ca)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=tokyonight&border_color=21262d&hide=issues,contribs&show_icons=true&bg_color=DEG,020344,28b8d5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=8&hide=C,C%2B%2B,Roff&&layout=compact)](https://github.com/matiast02/github-readme-stats)
 <!--
