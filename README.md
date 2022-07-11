@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4EF733&lines=A+brew+of+my++Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=4EF733&lines=A+brief+of+my++Github)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=merko&border_color=21262d&hide=issues,contribs&show_icons=true&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e)
 
