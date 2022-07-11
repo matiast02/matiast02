@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=radical)
 
 <!--
 **matiast02/matiast02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
