@@ -1,8 +1,10 @@
+ <img align="right" alt="Coding" width="400" src="[add your link here](https://media2.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif?cid=ecf05e47v7monftzpls6b75qd3qie6c2vktavj5fw4zkcf3w&rid=giphy.gif&ct=g)">
+
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=merko&border_color=21262d&hide=issues,contribs&show_icons=true&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=8&hide=C,C%2B%2B,Roff&&layout=compact)](https://github.com/matiast02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=4&hide=C,C%2B%2B,Roff&&layout=compact)](https://github.com/matiast02/github-readme-stats)
 <!--
 **matiast02/matiast02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
