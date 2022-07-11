@@ -23,10 +23,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
@@ -76,15 +74,24 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=merko&hide_border=true&hide=issues,contribs&show_icons=true&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e" />
 </a>
 <a href="https://github.com/matiast02/matiast02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=4&hide=C,C%2B%2B,Roff&&layout=compact&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e&title_color=00ee6e&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=4&hide=C,C%2B%2B,Roff&&layout=compact&bg_color=DEG,28b8d5,020344&text_color=ffffff&icon_color=00ee6e&title_color=00ee6e&hide_border=true" />
 </a>
 
 <br/>
+<br/>
+<br/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matiast02&theme=merko&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=matiast02&theme=merko&hide_border=true" />
+</div>
 
-
-![](https://komarev.com/ghpvc/?username=matiast02&color=brightgreen)
+<br/>
+ 
+<div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=matiast02&color=brightgreen" />
+</div>
+  
+  
 <!--
 **matiast02/matiast02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
