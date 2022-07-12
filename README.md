@@ -70,14 +70,15 @@
 
 <br/>  
 
-<a href="https://github.com/matiast02/matiast02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=merko&hide_border=true&hide=issues,contribs&show_icons=true&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e" />
-</a>
-<a href="https://github.com/matiast02/matiast02">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=4&hide=C,C%2B%2B,Roff&&layout=compact&bg_color=DEG,28b8d5,020344&text_color=ffffff&icon_color=00ee6e&title_color=00ee6e&hide_border=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/matiast02/matiast02">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matiast02&count_private=true&theme=merko&hide_border=true&hide=issues,contribs&show_icons=true&bg_color=DEG,020344,28b8d5&text_color=ffffff&icon_color=00ee6e" />
+  </a>
+  <a href="https://github.com/matiast02/matiast02">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiast02&&langs_count=4&hide=C,C%2B%2B,Roff&&layout=compact&bg_color=DEG,28b8d5,020344&text_color=ffffff&icon_color=00ee6e&title_color=00ee6e&hide_border=true" />
+  </a>
+</div>
 
-<br/>
 <br/>
 <br/>
 
