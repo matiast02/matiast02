@@ -1,15 +1,10 @@
 
-<img align="right" alt="Coding" width="800" height="200" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp">
-
-
-<br/>
-
 
 ### Hi there 👋 My name is Matias, I'm  a computer engineer 👨‍💻 and I work as Full-Stack developer.
 
 
 <br/>
-
+<img align="right" alt="Coding" width="800" height="200" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp">
 
 
 ## My Skill Set  
