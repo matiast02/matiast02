@@ -3,7 +3,7 @@
 ### Hi there 👋 My name is Matias, I'm  a computer engineer 👨‍💻 and I work as Full-Stack developer.
 
 
-<img align="right" alt="Coding" width="800" height="200" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp">
+<!-- <img align="right" alt="Coding" width="800" height="200" src="https://i.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.webp"> -->
 <br/>
 <a href="https://app.daily.dev/matiast02"><img src="https://api.daily.dev/devcards/v2/yU1cOg41Nse94FLGFBi9R.png?r=8dg" width="356" alt="matias's Dev Card"/></a>
 
